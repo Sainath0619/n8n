@@ -9,7 +9,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git 'https://github.com/Sainath0619/your-repo.git'
+        git 'https://github.com/Sainath0619/n8n.git'
       }
     }
 
